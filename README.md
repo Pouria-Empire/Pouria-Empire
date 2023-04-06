@@ -8,8 +8,8 @@ Hi there, I'm Pouria! I'm a software engineer with a passion for developing scal
 
 I have experience working with a variety of programming languages, frameworks, libraries, and cloud platforms. Here are some of the technologies I'm most comfortable working with:
 
-- **Programming Languages**: Python, Java, JavaScript
-- **Web Frameworks**: Flask, Django, React, Vue.js
+- **Programming Languages**: Python, Java, JavaScript, Java, C++, C#
+- **Web Frameworks**: Flask, Django, React,
 - **Databases**: PostgreSQL, MongoDB, Redis
 - **Cloud Platforms**: AWS, Google Cloud Platform, Azure
 
