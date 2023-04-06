@@ -19,8 +19,8 @@ I have experience working with a variety of programming languages, frameworks, l
 
 If you have any questions, comments, or feedback, feel free to reach out to me using one of the following channels:
 
-- **Email**: pouria.empire@example.com
-- **LinkedIn**: [linkedin.com/in/pouria-empire](https://www.linkedin.com/in/pouria-empire/)
+- **Email**: arefijamal.pouria@gmail.com
+- **LinkedIn**: [https://www.linkedin.com/in/pouria-arefijamal-160a5420a/](https://www.linkedin.com/in/pouria-arefijamal-160a5420a/)
 
 
 
